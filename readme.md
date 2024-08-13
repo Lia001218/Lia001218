@@ -4,10 +4,10 @@
 
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=javieroramas)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=javieroramas&column=3&margin-w=15&margin-h=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=lia001218s&column=3&margin-w=15&margin-h=15)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=javieroramas)
+![github stats](https://github-readme-stats.vercel.app/api?username=lia001218)
 
-![stats](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=javieroramas)
+![stats](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=lia001218)
 
 </div>
