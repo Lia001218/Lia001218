@@ -6,6 +6,5 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=lia001218)
 
-![stats](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=lia001218)
 
 </div>
